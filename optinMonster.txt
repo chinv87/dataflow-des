@@ -1,6 +1,7 @@
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 | Nguồn: optinMonster
 | Chú thích: Khách đăng ký nhận voucher qua banner trên website
+| Loại voucher: {200k|500k|1 triệu}
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
