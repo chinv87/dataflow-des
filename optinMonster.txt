@@ -1,0 +1,29 @@
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Nguồn: optinMonster
+| Chú thích: Khách đăng ký nhận voucher qua banner trên website
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin khách hàng
+| - Họ tên:
+| - Số điện thoại:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thiết bị & Trình duyệt
+| - Thiết bị:
+| - Trình duyệt:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Hành vi khách hàng
+| - Thời gian: Xem trang
+| - Thời gian: Xem trang
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin từ Big Data
+| - Tên Facebook:
+| - Link Facebook:
+| - Địa điểm:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
