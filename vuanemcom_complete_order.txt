@@ -1,0 +1,40 @@
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Nguồn: vuanemcom_complete_order
+| Chú thích: Khách đặt hàng thành công trên VuaNem.Com
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin khách hàng
+| - Họ tên:
+| - Số điện thoại:
+| - Địa chỉ nhận hàng:
+| - Ghi chú của khách hàng: 
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin đơn hàng
+| - Sản phẩm:
+| - Giá trị đơn hàng:
+| - Phí ship:
+| - Trạng thái thanh toán:
+| - Hình thức thanh toán: 
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thiết bị & Trình duyệt
+| - Thiết bị:
+| - Trình duyệt:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Hành vi khách hàng
+| - Thời gian: Xem trang
+| - Thời gian: Xem trang
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin từ Big Data
+| - Tên Facebook:
+| - Link Facebook:
+| - Địa điểm:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
