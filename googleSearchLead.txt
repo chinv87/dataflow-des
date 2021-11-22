@@ -1,0 +1,17 @@
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Nguồn: googleSearchLead
+| Chú thích: Khách search google và đăng ký nhận quà, voucher
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin khách hàng
+| - Họ tên:
+| - Số điện thoại:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| Thông tin từ Big Data
+| - Tên Facebook:
+| - Link Facebook:
+| - Địa điểm:
+* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
